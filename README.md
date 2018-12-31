@@ -1,29 +1,21 @@
-# notify
+# Vue Notify
 
-## Project setup
-```
-npm install
-```
+Vue.js component for simple notification.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Transitions
+ This uses the animate.css library for its transitions, which means all valid animate.css classes would work fine.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+ ## Customization 
 
-### Run your tests
-```
-npm run test
-```
+ Feel free to customize it how you want.
 
-### Lints and fixes files
-```
-npm run lint
-```
+ ## Contribution
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ * Clone it  
+ * Add features
+ * Send the request
+
+
+
+
+
